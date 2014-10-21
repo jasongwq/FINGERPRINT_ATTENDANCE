@@ -1,0 +1,19 @@
+    
+15个 IO 口
+F0 F1晶振
+
+    PA0_OUT
+    PB1_OUT指示灯
+    PA1_OUT
+    PA2_OUT
+    PA3_OUT
+    PA4_OUT
+    PA5_OUT
+    PA6_OUT
+    PA7_OUT
+    PA9_OUT
+    PA10_OUT
+    PA13_OUT下载口
+    PA14_OUT下载口
+    PF0_OUT
+    PF1_OUT
